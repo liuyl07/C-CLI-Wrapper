@@ -1,0 +1,8 @@
+C:\Users\YLiu\source\repos\CLIExample\x64\Release\Sandbox.exe.config
+C:\Users\YLiu\source\repos\CLIExample\x64\Release\Sandbox.exe
+C:\Users\YLiu\source\repos\CLIExample\x64\Release\Sandbox.pdb
+C:\Users\YLiu\source\repos\CLIExample\Sandbox\obj\Release\Sandbox.csprojAssemblyReference.cache
+C:\Users\YLiu\source\repos\CLIExample\Sandbox\obj\Release\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\YLiu\source\repos\CLIExample\Sandbox\obj\Release\Sandbox.csproj.CopyComplete
+C:\Users\YLiu\source\repos\CLIExample\Sandbox\obj\Release\Sandbox.exe
+C:\Users\YLiu\source\repos\CLIExample\Sandbox\obj\Release\Sandbox.pdb
